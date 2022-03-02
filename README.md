@@ -9,8 +9,8 @@ Presentation on data analysis for experimental physics in the experimental class
 
 You can find the [reveal.js](https://github.com/hakimel/reveal.js/) slides here:
 
-* [Trex Data Analysis Tutorial](https://rembserj.web.cern.ch/rembserj/slides/200306_trex_analysis/reveal.js/TrexAnalysis.slides.html#/)
-* [Pulse Shape Fitting Tutorial](https://rembserj.web.cern.ch/rembserj/slides/200306_trex_analysis/reveal.js/PulseShapeFit.slides.html#/)
+* [Trex Data Analysis Tutorial](https://github.com/axbuchot/-TREX_2022/blob/master/TrexAnalysis.ipynb)
+* [Pulse Shape Fitting Tutorial](https://github.com/axbuchot/-TREX_2022/blob/master/PulseShapeFit.ipynb)
 
 ## Instructions
 
