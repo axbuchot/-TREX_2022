@@ -1,6 +1,7 @@
 # Trex Data Analysis Presentation
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/guitargeek/trex-analysis/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/axbuchot/-TREX_2022/master)
+
 
 Presentation on data analysis for experimental physics in the experimental classes of École polytechnique.
 
