@@ -9,9 +9,8 @@ Presentation on data analysis for experimental physics in the experimental class
 
 You can find the [reveal.js](https://github.com/hakimel/reveal.js/) slides here:
 
-* [Trex Data Analysis Tutorial](https://github.com/axbuchot/-TREX_2022/blob/master/TrexAnalysis.ipynb)
-* [Pulse Shape Fitting Tutorial](https://github.com/axbuchot/-TREX_2022/blob/master/PulseShapeFit.ipynb)
-
+* [Trex Data Analysis Tutorial](https://github.com/axbuchot/-TREX_2022/blob/195853bad2e185fe13f71527b1f2d4be95233b7c/TrexAnalysis.slides.html)
+* [Pulse Shape Fitting Tutorial](https://github.com/axbuchot/-TREX_2022/blob/195853bad2e185fe13f71527b1f2d4be95233b7c/PulseShapeFit.slides.html)
 ## Instructions
 
 The [notebook in this repository](TrexAnalysis.ipynb) contains the notebook which was presented in the form of slides in the introduction to data analysis with Python. You can also run this notebook in the browser by clicking the "launch binder" button above, or just dowload it and open it on your laptop with [Jupyter Notebook](https://jupyter.org/) (requires Python installation).
